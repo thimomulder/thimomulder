@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Thimo</h1>
-<h3 align="left">A 22 year old dutch boy. Who wants to learn code for Data Sciences</h3>
+<h3 align="left">A 23 year old dutch boy. Who wants to learn code for Data Sciences</h3>
 
 - 🌱 I’m currently learning **Java**
 
