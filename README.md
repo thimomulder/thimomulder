@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Thimo</h1>
-<h3 align="left">A 23 year old dutch boy. Who wants to learn code for Data Sciences</h3>
+<h3 align="left">A 23 year old dutch boy. Who wants to learn code</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Robot Framework**, **HTML, CSS, JAVASCRIPT**
 
 - 👯 I’m looking to collaborate on **nothing at the moment, just in the learning curve for now.**
 
