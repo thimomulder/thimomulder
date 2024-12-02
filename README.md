@@ -1,12 +1,33 @@
-<h1 align="left">Hi 👋, I'm Thimo</h1>
-<h3 align="left">A 23 year old dutch boy. Who wants to learn code</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🌱 I’m currently learning **Robot Framework**, **WebDev (HTML, CSS, Javascript)**
-- 👯 I’m looking to collaborate on **nothing at the moment, just in the learning curve for now.**
-- ⚡ Fun fact **I'm really interested in tech.**
+<p align="left">My name is Thimo and I'm a 24 year old dutch boy. Who wants to learn code</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<h2 align="left">About me</h2>
 
-<h3 aligh="left">Roadmap:</h3>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65e1e2328947e435e75cf9f1?variant=dark&roadmaps=python%2Cbackend%2Ccyber-security%2Cjavascript" alt="roadmap.sh"/></a>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Ansible, WebDev (HTML, CSS, Javascript), Linux, Containers<br>🎯 Goals: Deploy my own homelab<br>🎲 Fun fact: I'm really interested in tech.</p>
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
